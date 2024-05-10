@@ -25,18 +25,6 @@ I'm a Computer Engineering student from the Philippines with a passion for netwo
 - **Operating Systems:** ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 - **Networking:** ![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfdelrosario12&show_icons=true&count_private=true&hide=stars&theme=radical)
-
-## GitHub Streak Stats
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gfdelrosario12&theme=radical)
-
-## GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gfdelrosario12)
-
 ## Visitors Count
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gfdelrosario12.gfdelrosario12)
