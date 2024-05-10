@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm a Computer Engineering student from the Philippines with a passion for network engineering, cloud computing, and software development.
+I'm a Computer Engineering student from the Philippines with a passion for transforming ideas into digital innovations
 
-- 🌱 I'm currently learning and exploring various technologies in cloud computing and software development.
+- 🌱 I'm currently learning and exploring various technologies in network engineering, cloud computing and software development.
 - 💼 I'm actively seeking internships and opportunities to apply my skills in real-world projects.
 
 ## Socials & Credentials
