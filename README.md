@@ -1,4 +1,4 @@
-# Hiello World, I am Gladwin Ferdz Del Rosario! 👋
+# Hello World, I am Gladwin Ferdz Del Rosario! 👋
 
 ## About Me
 
