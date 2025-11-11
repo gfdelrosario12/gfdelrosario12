@@ -42,13 +42,20 @@
   └─ DevOps & Automation
 
 🏆 Leadership & Experience:
-  ├─ IT Facilitator | 3T | FEU Institute of Technology (2024 - Present)
-  ├─ IT Facilitator | 3T | Designing | EXpected | VRspace | AWS | IoT | Raspberry Pi | Python
-  ├─ IT Facilitator | 3T | Designing | EXpected | Virtual | Cisco Networking (2024 - Present)
-  ├─ Cloud Facilitator | Google Cloud | Google Developers Group (2024 - Present)
-  ├─ Core Team Member | AWS Cloud Club | FEU Institute of Technology (2024 - Present)
-  ├─ Project Manager | TrailTech Hive (2024)
-  └─ Finance Head | Fintech | YouthDev Career Systems (2024)
+├─ IT Service Management Intern | Sun Life Global Solutions - Philippines
+├─ Vice President for Operations | CyberPH
+├─ Executive Vice President | ICPEP SE - PUP Manila
+├─ Chief Technology Officer | Google Developer Groups on Campus PUP
+├─ Mobile Developer | Google Developer Student Clubs PUP
+├─ SBD Lead – Department of Cloud Computing and Infrastructure | AWS Cloud Clubs PUP
+├─ Director for Cloud Computing | PUP Manila Microsoft Student Community
+├─ Student Volunteer | Java User Groups Philippines
+├─ Field Ambassador | KakaComputer
+├─ Devskolar | The Programmer's Guild
+├─ Technical Lead & Product Manager | Diwata Overcode – GDSC Loyola's Hackfest 2024
+├─ Business Analyst & Product Manager | PhilDev Inter-University TechUP Hackathon
+├─ Blockchain Developer | TON Society – Manila Bootcamp: Hackers League Hackathon
+└─ Business Analyst & Product Manager | UP Socompscie – HACKathon 2024
 ```
 
 <div align="center">
